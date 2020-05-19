@@ -2,7 +2,7 @@
     "payment_methods": [
       {
         "id": 1,
-        "title": "Mastercard",
+        "title": "Mastercard - PaySoft",
         "price_incl":0,
         "price_excl": 0,
         "tax_rate": 0,
@@ -10,7 +10,7 @@
       },
       {
         "id": 2,
-        "title": "Visa",
+        "title": "Visa - PaySoft",
         "price_incl":0,
         "price_excl": 0,
         "tax_rate": 0,
@@ -18,7 +18,7 @@
       },
       {
         "id": 3,
-        "title": "API Payments",
+        "title": "API Payments - PaySoft",
         "price_incl":0,
         "price_excl": 0,
         "tax_rate": 0,
