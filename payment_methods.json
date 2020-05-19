@@ -1,0 +1,28 @@
+{
+    "payment_methods": [
+      {
+        "id": 1,
+        "title": "Mastercard",
+        "price_incl":0,
+        "price_excl": 0,
+        "tax_rate": 0,
+        "icon": "mastercard"
+      },
+      {
+        "id": 2,
+        "title": "Visa",
+        "price_incl":0,
+        "price_excl": 0,
+        "tax_rate": 0,
+        "icon": "visa"
+      },
+      {
+        "id": 3,
+        "title": "API Payments",
+        "price_incl":0,
+        "price_excl": 0,
+        "tax_rate": 0,
+        "icon": "https://cdn.webshopapp.com/shops/244588/files/164085821/france.png"
+      }
+    ]
+  }  
