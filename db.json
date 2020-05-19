@@ -2,7 +2,7 @@
     "payment_methods": [
       {
         "id": 1,
-        "title": "Mastercard - updated",
+        "title": "Mastercard - updated 1",
         "price_incl":0,
         "price_excl": 0,
         "tax_rate": 0,
